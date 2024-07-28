@@ -24,20 +24,22 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddhesh Gorantiwar
 ==================================================================================================================================
 
-I am a passionate Machine Learning Engineer from India
+I am a passionate Machine Learning Engineer from India. 
+
 -------------------------------------------------------
 
-I'm currently persuing my Btech at IIT Bhubaneswar. I am enthusiastic about exploring new technologies and advancements related to AI and Machine Learning.
+I'm currently pursuing my Btech at IIT Bhubaneswar. I am enthusiastic about exploring new technologies and AI and Machine Learning advancements.
 
 <img align="right" alt="Coding" width="380" src="side.gif">
 
 * 🌍  I live in India
+* 📃  To view my portfolio click [here](https://siddheshgorantiwar.github.io/portfolio-siddhesh/)
 * ✉️  You can contact me at [siddheshgorantiwar@gmail.com](mailto:siddheshgorantiwar@gmail.com)
 * 🚀  I'm currently working on various machine learning projects and learning new technologies.
 * 🧠  I'm currently learning TensorFlow, OpenCV, and Natural Language Processing techniques.
 * 🤝  I'm open to collaborating on projects related to machine learning or deep learning.
-* 👔 &nbsp;My soft skills include Communication Skills, Time Management, Teamwork, Team Leadership, and Emotional Intelligence.
-* 🗣️ &nbsp;I can speak English, Hindi, and Marathi.
+* 👔 &nbsp; My soft skills include Communication Skills, Time Management, Teamwork, Team Leadership, and Emotional Intelligence.
+* 🗣️ &nbsp; I can speak English, Hindi, and Marathi.
 
 <br />
 
